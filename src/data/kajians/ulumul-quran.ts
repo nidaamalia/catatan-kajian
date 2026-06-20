@@ -6,7 +6,7 @@ export const ulumulQuran: Kajian = {
   title: "Ulumul Quran",
   pemateri: "Syaikh Abul-Athoo' حفظه الله",
   cover_tag: "Ilmu Al-Qur'an",
-  tags: ["ulumul-quran", "al-quran", "ilmu", "talaqi", "tajwid", "keutamaan"],
+  tags: ["ulumul-quran", "al-quran", "ilmu", "talaqqi", "tajwid", "keutamaan"],
   color: {
     primary: "#3D2030",
     soft: "#FDF0EE",
@@ -91,31 +91,31 @@ export const ulumulQuran: Kajian = {
             "Mukjizat awal: Al-Qur'an menyebar sejak 1400 tahun lalu, di seluruh dunia **dalam satu bentuk yang sama, tidak ada perubahannya**.\n\nTidak ada buku lain yang bertahan ribuan tahun tanpa perubahan.\n\n*\"Sesungguhnya Kami yang menurunkan Al-Qur'an, dan sesungguhnya Kami yang menjaganya.\"*",
         },
         {
-          tag: "Talaqi",
+          tag: "Talaqqi",
           title: "Bagaimana Al-Qur'an Sampai kepada Kita?",
           content:
-            "Al-Qur'an sampai kepada kita **dengan cara yang sama** seperti Nabi ﷺ mengambilnya dari Jibril.\n\nJibril mengajarkan Nabi ﷺ → Nabi mengajarkan sahabat → sahabat ke tabi'in → sampai hari ini. Inilah **Talaqi**.",
+            "Al-Qur'an sampai kepada kita **dengan cara yang sama** seperti Nabi ﷺ mengambilnya dari Jibril.\n\nJibril mengajarkan Nabi ﷺ → Nabi mengajarkan sahabat → sahabat ke tabi'in → sampai hari ini. Inilah **Talaqqi**.",
         },
         {
-          tag: "Talaqi",
+          tag: "Talaqqi",
           title: "Muraja'ah Setiap Ramadan",
           content:
             "Dari Ibnu Abbas رضي الله عنه: *\"Jibril mendatangi Nabi ﷺ di bulan Ramadan setiap tahun untuk muraja'ah Al-Qur'an bersama beliau satu kali.\"*\n\nPada tahun wafatnya Nabi ﷺ, Jibril turun **dua kali** untuk muraja'ah seluruh Al-Qur'an.",
         },
         {
-          tag: "Talaqi",
+          tag: "Talaqqi",
           title: "Cara Menyebarkan Al-Qur'an",
           content:
             "Setiap ayat turun, Nabi ﷺ langsung memanggil sahabat: *\"Telah turun ayat baru.\"*\n\nYang bisa menulis langsung menulis. Yang bisa menghafal langsung menghafal. Esok harinya, semua membaca ayat tersebut.\n\nNabi ﷺ bersabda: *\"Dengarkan dariku, dan akan ada yang mendengar dari kalian, kemudian ada yang mendengar dari mereka.\"*",
         },
         {
-          tag: "Talaqi",
+          tag: "Talaqqi",
           title: "4 Sahabat Muqri' Pilihan Nabi",
           content:
             "Nabi ﷺ merekomendasikan:\n*\"Ambillah Al-Qur'an dari empat orang ini:\"*\n\n1. **Abdullah bin Mas'ud** رضي الله عنه\n2. **Ubay bin Ka'ab** رضي الله عنه\n3. **Salim Maula Abi Hudzaifah** رضي الله عنه\n4. **Mu'adz bin Jabal** رضي الله عنه",
         },
         {
-          tag: "Talaqi",
+          tag: "Talaqqi",
           title: "Belajar Al-Qur'an Tidak Boleh Sendiri",
           content:
             "Cara mempelajari Al-Qur'an yang benar hanya ada satu — yaitu dengan seorang mualim/guru yang *qualified*, yang sanadnya bersambung kepada Jibril dan Rasulullah ﷺ.\n\nJangan hanya belajar otodidak.",
@@ -185,7 +185,7 @@ export const ulumulQuran: Kajian = {
           tag: "Murajaah",
           title: "Macam Ulumul Qur'an & Faedahnya",
           content:
-            "**1. Al-Ulumul Awaliyah:** Ilmu yang membantu memahami Al-Qur'an (cth: tafsir, tajwid).\n**2. Ulumun Natijah:** Ilmu yang lahir dari Al-Qur'an (cth: fikih, sejarah, kisah nabi).\n\n**Faedah:**\n• Al-Qur'an adalah mukjizat agung yang dijaga sampai kiamat.\n• Turun lewat malaikat Jibril karena bobot wahyu yang sangat kuat.\n• Nabi ﷺ mewariskan Al-Qur'an dengan metode **talaqi**.\n• Aisyah رضي الله عنها menyifati akhlak Nabi ﷺ sebagai \"Al-Qur'an yang berjalan\".",
+            "**1. Al-Ulumul Awaliyah:** Ilmu yang membantu memahami Al-Qur'an (cth: tafsir, tajwid).\n**2. Ulumun Natijah:** Ilmu yang lahir dari Al-Qur'an (cth: fikih, sejarah, kisah nabi).\n\n**Faedah:**\n• Al-Qur'an adalah mukjizat agung yang dijaga sampai kiamat.\n• Turun lewat malaikat Jibril karena bobot wahyu yang sangat kuat.\n• Nabi ﷺ mewariskan Al-Qur'an dengan metode **talaqqi**.\n• Aisyah رضي الله عنها menyifati akhlak Nabi ﷺ sebagai \"Al-Qur'an yang berjalan\".",
         },
         {
           tag: "Murajaah",
@@ -246,12 +246,6 @@ export const ulumulQuran: Kajian = {
           title: "Q: Menghafal vs Kesibukan?",
           content:
             "**Syaikh Abul-Athoo':** Anggaplah (jadwalkan) rutinitas hafalan seperti kewajiban shalat fardhu yang punya rentang waktu panjang. Jika tidak sempat di pagi hari, geser ke siang, atau ke malam.\n\nBahkan Nabi ﷺ pernah menjamak shalat karena sibuk di Perang Khandaq.\n\nJangan pernah memutus rutinitas! Jika hari itu terlewat, niatkan **qadha** (menggantinya) di hari berikutnya. Jaga rutinitas ini terus menerus.",
-        },
-        {
-          tag: "Penutup",
-          title: "Jadwal Pertemuan Selanjutnya",
-          content:
-            "Daurah *Mabadi'ul Ulumil Qur'an* menyisakan 2 pertemuan lagi.\n\nInsya Allah pada pekan depan, materi akan membahas khusus pada topik **Ilmu Qira'at dan Tajwid**.\n\nJazakumullahu khayran kepada As-Syekh Abul-Athoo', panitia, serta berbagai halaqah majelis yang turut menyelenggarakan majelis ilmu ini.",
         },
       ],
     },
