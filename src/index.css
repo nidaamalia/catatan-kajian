@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "DM Serif Display", serif;
+  --font-sans: "Nunito", sans-serif;
+
+  --color-bg-main: #FDF0EE;
+  --color-bg-alt: #FAF0F5;
+  --color-text-primary: #3D2030;
+  --color-text-secondary: #9C7080;
+  --color-card-bg: #FFFFFF;
+  --color-border-main: #F0DDE4;
+  --color-accent-main: #C4788A;
+}
+
+body {
+  background-color: var(--color-bg-main);
+  color: var(--color-text-primary);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+.soft-shadow {
+  box-shadow: 0 10px 30px rgba(196, 120, 138, 0.08);
+}
+
+.accent-shadow {
+  box-shadow: 0 20px 40px rgba(196, 120, 138, 0.15);
+}
+
+.frosted-glass {
+  background-color: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.9);
+}
+
+.markdown-body p {
+  margin-bottom: 1em;
+}
+.markdown-body p:last-child {
+  margin-bottom: 0;
+}
+.markdown-body strong {
+  font-weight: 700;
+  color: var(--color-text-primary);
+}
+.markdown-body em {
+  font-style: italic;
+}
+.markdown-body ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 1em 0;
+  text-align: left;
+}
+.markdown-body li {
+  margin-bottom: 0.5em;
+}
+
