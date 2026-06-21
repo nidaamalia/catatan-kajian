@@ -177,9 +177,9 @@ export const ulumulQuran: Kajian = {
       slides: [
         {
           tag: "Muqaddimah",
-          title: "Profil Pemateri & Tata Tertib",
+          title: "Profil Pemateri",
           content:
-            "**As-Syekh Al-Muqri Abul Atha Ahmad Banazah حفظه الله**\n\nBerasal dari Wadi Dau'an, Hadramaut, Yaman. Mulai menghafal Al-Qur'an sejak usia 11 tahun dan telah berdakwah ± 20 tahun di berbagai negara.\n\n**Tata Tertib Majelis (Ringkasan):**\n1. Luruskan niat karena Allah, siapkan hati dan catatan.\n2. Jaga hijab, pandangan, dan suara.\n3. Catat faedah, aktif menjawab, dan *raise hand* bila ingin bertanya.\n4. Istiqamah hadir dan kerjakan evaluasi.",
+            "**As-Syekh Al-Muqri Abul Atha Ahmad Banazah حفظه الله**\n\nBerasal dari Wadi Dau'an, Hadramaut, Yaman. Mulai menghafal Al-Qur'an sejak usia 11 tahun dan telah berdakwah ± 20 tahun di berbagai negara.",
         },
         {
           tag: "Murajaah",
