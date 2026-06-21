@@ -179,73 +179,103 @@ export const ulumulQuran: Kajian = {
           tag: "Muqaddimah",
           title: "Profil Pemateri",
           content:
-            "**As-Syekh Al-Muqri Abul Atha Ahmad Banazah حفظه الله**\n\nBerasal dari Wadi Dau'an, Hadramaut, Yaman. Mulai menghafal Al-Qur'an sejak usia 11 tahun dan telah berdakwah ± 20 tahun di berbagai negara.",
+            "**As-Syekh Al-Muqri Abul Atha Ahmad Banazah حفظه الله**\n\nNama lengkap: Abu Al-Atha Ahmad bin Umar bin Abdul Arrahman Banazah.\n\nBerasal dari Wadi Dau'an Arrasyid, Hadramaut, Yaman. Mulai menghafal Al-Qur'an sejak usia 11 tahun. Telah menyelesaikan ilmu qiraat, tajwid, syariat, dan dakwah salafiyah. Aktif berdakwah ± 20 tahun di Yaman, Malaysia, Indonesia, dan Maladewa.",
         },
         {
           tag: "Murajaah",
-          title: "Macam Ulumul Qur'an & Faedahnya",
+          title: "Ringkasan Materi Pekan Lalu (Ukhti Ifda)",
           content:
-            "**1. Al-Ulumul Awaliyah:** Ilmu yang membantu memahami Al-Qur'an (cth: tafsir, tajwid).\n**2. Ulumun Natijah:** Ilmu yang lahir dari Al-Qur'an (cth: fikih, sejarah, kisah nabi).\n\n**Faedah:**\n• Al-Qur'an adalah mukjizat agung yang dijaga sampai kiamat.\n• Turun lewat malaikat Jibril karena bobot wahyu yang sangat kuat.\n• Nabi ﷺ mewariskan Al-Qur'an dengan metode **talaqqi**.\n• Aisyah رضي الله عنها menyifati akhlak Nabi ﷺ sebagai \"Al-Qur'an yang berjalan\".",
+            "Sebelum Syekh hadir, peserta diminta membacakan ringkasan pekan lalu.\n\n**Dua macam Ulumul Qur'an:**\n1. **Al-Ulumul Awaliyah** — ilmu yang membantu memahami Al-Qur'an (tafsir, tajwid).\n2. **Ulumun Natijah** — ilmu yang lahir dari Al-Qur'an (ahkam, fiqh, sejarah, kisah nabi).\n\n**Poin penting:** Al-Qur'an mukjizat agung yang dijaga sampai kiamat; turun lewat Jibril karena beratnya kalamullah; Nabi ﷺ mengajarkan dengan metode **talaqqi** seperti belajar dari Jibril; 4 sahabat muqri': Abdullah bin Mas'ud, Ubay bin Ka'ab, Salim Maula Abi Hudzaifah, Mu'adz bin Jabal.",
+        },
+        {
+          tag: "Murajaah",
+          title: "Q: Dua Macam Ulumul Qur'an?",
+          content:
+            "**Jawaban Ukhti Yuli Astuti:**\n\n1. **Al-Ulumul Awaliyah** — ilmu yang membantu memahami Al-Qur'an. Contoh: ilmu tafsir dan tajwid.\n2. Ilmu-ilmu yang lahir dari ilmu tentang Al-Qur'an. Contoh: ahkam, fiqh, sejarah dalam Al-Qur'an, dan kisah-kisah para nabi.\n\nSyaikh memuji jawaban ini sebagai yang paling sempurna.",
         },
         {
           tag: "Murajaah",
           title: "Q: Mengapa Ulum Awaliyah Penting?",
           content:
-            "**Syaikh Abul-Athoo':** Ulum awaliyah wajib dipelajari agar pemahaman kita terhadap Al-Qur'an benar.\n\nContoh dalam Ushulut Tafsir adalah ilmu *nasikh wal mansukh*. Jika kita ingin memahami hukum hijab, kita harus mempelajari ayat Al-Ahzab yang turun belakangan terlebih dahulu, lalu melihat sejarah penerapannya di Madinah.\n\nTanpa ulum awaliyah, orang bisa membaca Al-Qur'an tapi salah kaprah (seperti ahlul bid'ah) karena menyimpang dari manhaj Salaf.",
+            "**Syaikh Abul-Athoo':** Ulum awaliyah wajib dipelajari agar pemahaman terhadap Al-Qur'an benar.\n\nContoh dari **Ushulut Tafsir**: prinsip *an-nasikh wal-mansukh*. Untuk memahami hukum hijab, pelajari dulu ayat Al-Ahzab, baru sejarah penerapannya di Madinah.\n\nTanpa ulum awaliyah, pemahaman pasti salah — inilah **lubang ahlul bid'ah**. Salaf belajar al-iman dan al-usul dulu sebelum masuk ke Al-Qur'an.\n\n*\"Ikut cara salaf untuk paham dan hafal Al-Qur'an akan mendapat faedah yang benar dan shahih.\"*",
         },
         {
           tag: "Murajaah",
           title: "Q: Mengapa Melalui Jibril?",
           content:
-            "Walaupun Allah pernah berbicara langsung dengan Nabi ﷺ saat Isra Mi'raj, Al-Qur'an tetap diturunkan lewat Jibril.\n\n**Kenapa?** Karena Al-Qur'an sangat agung dan berat. Dipilihlah Jibril dari kalangan malaikat yang paling kuat untuk menerimanya.\n\n*\"Hal ini menunjukkan betapa agungnya Al-Qur'an — Al-Qur'an istimewa di sisi Allah sendiri, sebelum istimewa bagi makhluk-Nya.\"*",
+            "**Jawaban Ukhti Putri Aisyah:** Karena Al-Qur'an adalah kalamullah yang paling berat, maka dipilih malaikat Jibril — malaikat yang paling kuat — sebagai perantara.\n\nWalaupun Allah pernah berbicara langsung dengan Nabi ﷺ (Isra Mi'raj, seperti kepada Musa عليه السلام), Al-Qur'an khusus diturunkan melalui Jibril.\n\n**Faedah:** Al-Qur'an maha agung dan istimewa di sisi Allah **sebelum** istimewa bagi makhluk. Rasulullah ﷺ sebagai manusia tidak mampu menerima langsung.",
         },
         {
           tag: "Materi Utama",
           title: "Kemuliaan Penghafal Al-Qur'an",
           content:
-            "Allah memberikan Al-Qur'an dengan cara yang paling khusus. Orang yang mencapainya akan mendapat kemuliaan.\n\nOrang pertama dari kalangan manusia yang menghafal Al-Qur'an langsung dari Jibril adalah **Nabi Muhammad ﷺ**.\n\nKarena itu, siapa yang bersungguh-sungguh berusaha menghafal Al-Qur'an (meski belum sempurna) berarti ia sedang mempraktikkan dan mengikuti Sunnah Nabi ﷺ.",
+            "Allah memberikan Al-Qur'an dengan cara yang paling khusus dan istimewa. Orang yang mendapatkan dan menghafalnya pun istimewa.\n\n*\"Cukup bagi kamu: orang pertama yang menghafal Al-Qur'an setelah Jibril dari kalangan manusia adalah Muhammad ﷺ.\"*\n\nSiapa yang bersungguh-sungguh menghafal Al-Qur'an (meski belum sempurna) berarti ia mengikuti sunnah Nabi ﷺ dan cara sahabat.",
         },
         {
           tag: "Faedah Menghafal",
           title: "1. Kedudukan Istimewa di Nabi ﷺ",
           content:
-            "Nabi ﷺ mencintai semua sahabat, namun Ahlul Qur'an memiliki tempat yang khusus:\n\n• Beliau bersabda: *\"Belajarlah dari 4 orang ini: Abdullah bin Mas'ud, Mu'adz bin Jabal, Ubay bin Ka'ab, dan Abdullah bin 'Amr...\"*\n• Beliau pernah menangis saat meminta Ibnu Mas'ud membacakan Al-Qur'an untuknya.\n• Beliau membela betis kecil Ibnu Mas'ud yang ditertawakan, seraya bersabda betis itu *lebih berat dari Gunung Uhud* di timbangan Kiamat.\n• Di Perang Uhud, syuhada yang hafalannya lebih banyak diutamakan masuk liang lahad.",
+            "Nabi ﷺ mencintai semua sahabat, tapi **Ahlul Qur'an** punya tempat istimewa di hatinya.\n\n• *\"Siapa yang ingin belajar Al-Qur'an, belajarlah dari empat orang ini\"* — Abdullah bin Mas'ud, Mu'adz bin Jabal, Ubay bin Ka'ab, dan Salim Maula Abi Hudzaifah (hadits shahih dari Abdullah bin Amr bin Ash).\n• Nabi ﷺ memanggil Ibnu Mas'ud sendirian, memintanya membacakan Al-Qur'an, lalu menangis mendengarnya.\n• Sahabat menertawakan kaki Ibnu Mas'ud yang kurus saat memanjat pohok. Nabi ﷺ membelanya: *\"Demi Allah, kaki Ibnu Mas'ud lebih berat dari Gunung Uhud di timbangan hari Kiamat.\"*",
         },
         {
           tag: "Faedah Menghafal",
-          title: "2. Menjaga Keistiqamahan",
+          title: "Sahabat Menghargai Ahlul Qur'an",
           content:
-            "Dasar agama Islam adalah Al-Qur'an. Kiamat ditandai dengan diangkatnya Al-Qur'an dari muka bumi sehingga tak ada lagi yang bertauhid.\n\nKadar keistiqamahan seseorang dapat diukur dari hubungannya dengan Al-Qur'an. Orang yang bicara tentang istiqamah namun abai terhadap Al-Qur'an, hakikatnya ia tidak paham makna istiqamah yang sesungguhnya.\n\n*\"Setiap muslim dituntut memiliki semangat membersamai Al-Qur'an sesuai kemampuan, walau hanya satu ayat sehari.\"*",
+            "Ketika Kufah baru menjadi tanah Islam, **Umar bin Khattab** رضي الله عنه mengirim **Abdullah bin Mas'ud** sebagai imam dan pengajar agama bagi orang-orang yang baru masuk Islam.\n\nUmar berkata: *\"Wahai muslimin, saya hantar untuk kalian Abdullah bin Mas'ud — seorang alim besar. Saya butuh ilmunya, tapi saya berikan isar (mengutamakan kalian) karena kalian lebih membutuhkan.\"*\n\nDi **Perang Uhud**, ketika beberapa syuhada dimakamkan dalam satu liang, Nabi ﷺ memerintahkan: letakkan yang **pertama masuk** adalah orang yang hafalannya paling banyak.",
+        },
+        {
+          tag: "Faedah Menghafal",
+          title: "2. Menjaga Keistiqamahan & Agama",
+          content:
+            "Dasar umat Islam adalah Al-Qur'an. Jika Al-Qur'an hilang, tauhid pun hilang.\n\nNabi ﷺ bersabda: hari Kiamat akan dimulai ketika tidak ada lagi yang menyebut *la ilaha illallah* di dunia. Sebelum itu, Allah akan mengangkat Al-Qur'an semuanya kepada-Nya.\n\nHati yang tidak ada Al-Qur'an di dalamnya seperti **rumah yang hancur**. Kadar istiqamah seseorang bisa diukur dari hubungannya dengan Al-Qur'an — jika 10% Al-Qur'an, istiqamahnya pun sekitar 10%.\n\n*\"Setiap muslim wajib semangat dengan Al-Qur'an sesuai kemampuan — walau satu ayat sehari. Jangan tinggalkan Al-Qur'an. Jika tidak mampu hafal, membaca pun ibadah.\"*",
         },
         {
           tag: "Faedah Menghafal",
           title: "3. Pintu Gerbang Ilmu Agama",
           content:
-            "Di fase Makkah, Nabi ﷺ mengajarkan Al-Qur'an sedikit demi sedikit (10 ayat per 10 ayat) **sebelum** turunnya kewajiban shalat, puasa, dan haji. Allah menyiapkan hati sahabat dengan pondasi Qur'an terlebih dahulu.\n\nImam Al-Auza'i رحمه الله selalu menyuruh murid baru yang datang untuk belajar hadits agar mempelajari dan menghafal Al-Qur'an terlebih dahulu.\n\n**Tidak ada jalan awal yang lebih benar untuk mempelajari ilmu syar'i selain dari Al-Qur'an.**",
+            "Tidak ada pintu, jalan, atau cara lain untuk belajar ilmu agama selain Al-Qur'an.\n\nDi **Makkah**, Nabi ﷺ mengajarkan Al-Qur'an **10 ayat per 10 ayat** — sebelum turunnya shalat, puasa, haji, dan zakat. Allah menyiapkan hati sahabat dengan Al-Qur'an terlebih dahulu.\n\n**Imam Al-Auza'i** رحمه الله: jika ada orang baru datang belajar hadits, beliau tanya dulu — *\"Sudah belajar Al-Qur'an? Sudah hafal?\"* Jika belum, disuruh belajar Al-Qur'an dulu. Jika mengaku sudah hafal, langsung diuji dari Al-Qur'an.\n\n*\"Siapa ingin belajar ilmu agama, mulailah dengan kitabullah — cara Muhammad ﷺ dan sahabat.\"* (Imam Ibnu Taimiyyah)",
         },
         {
           tag: "Faedah Menghafal",
           title: "4. Sebab Husnul Khatimah",
           content:
-            "Faedah terakhir dari membersamai Al-Qur'an:\n\nSiapa yang senantiasa menjaga Al-Qur'an selagi ia hidup beraktivitas di dunia, maka dengan izin Allah, Al-Qur'an akan gantian menjaganya saat ia menghadapi sakaratul maut.\n\nMenjaga Al-Qur'an akan menjadi asbab dan jalan meraih **Husnul Khatimah**.",
+            "*\"Al-Qur'an sababun li husnil khatimah.\"*\n\nSiapa yang menjaga Al-Qur'an selama hidupnya, maka dengan izin Allah, Al-Qur'an akan menjaganya saat menghadapi sakaratul maut.\n\nJaga kitabullah di hidupmu — pastikan ada program terus-menerus untuk belajar, menghafal, dan membaca Al-Qur'an sesuai kemampuan. Jangan potong-potong dan jangan main-main dengan Al-Qur'an jika kamu serius dalam istiqamah.",
         },
         {
           tag: "Metode Menghafal",
-          title: "A. Mengatur Waktu & Tempat",
+          title: "A. Hak Waktu & Tempat",
           content:
-            "Berikan **waktu khusus**, bukan \"sisa waktu\" agar hak Al-Qur'an terpenuhi.\n\n• **Waktu:** Malam hari sebelum tidur (dalam keadaan berwudu) untuk menyetor atau menambah hafalan baru sebagai penutup hari. Kemudian bangun sebelum/sesudah Subuh untuk me-murajaah hafalan tersebut sehingga menancap kuat.\n• **Tempat:** Kondusif dan tanpa gangguan.\n• **Mu'allim:** Disarankan kuat memiliki pembimbing/guru untuk mengarahkan pelafalan yang benar (tidak otodidak murni).",
+            "Berikan **waktu khusus** untuk Al-Qur'an — bukan sisa waktu. Orang yang hanya memberi sisa waktu bukan ahli Qur'an dan mustahil belajar ilmu agama dengan benar.\n\nAl-Qur'an punya **hak minimum** dalam waktu, sama seperti hak suami, pekerjaan, atau urusan dunia.\n\n**Waktu terbaik (menurut ulama):**\n• Malam sebelum tidur (dalam keadaan berwudu) — tidur sebagai khatimah hari.\n• Bangun sebelum/sesudah Subuh untuk muraja'ah.\n\nHafalan awal yang lemah akan menguat setelah tidur dan muraja'ah. Sepanjang hari, terus muraja'ah.",
         },
         {
           tag: "Metode Menghafal",
-          title: "B. Panduan Cara Menghafal",
+          title: "B. Mu'allim & Tempat Kondusif",
           content:
-            "Lakukan secara bertahap, dan **jangan pindah ayat sebelum ayat sebelumnya benar-benar kuat.**\n\nMisal: Ulangi ayat 1 berkali-kali hingga lancar. Baca ayat 2 hingga lancar. Lalu gabungkan ayat 1 dan 2 hingga lancar bersamaan. Baru beranjak ke ayat 3.\n\nPastikan memiliki rutinitas tetap (*wird*). Syaikh menasihatkan: *\"Istiqamah secara praktis adalah rutinitas dalam kebaikan sampai bertemu Allah.\"*",
+            "*\"La budda minal mu'allim.\"* — Jika ingin hafal dengan cara benar, **wajib** punya ustaz yang mengajarkan Al-Qur'an dengan cara benar. Hafal sendiri terus-menerus memang bahaya.\n\nNabi ﷺ bersabda: *\"Kamu belajar dariku, orang belajar darimu, lalu orang belajar dari orang yang belajar darimu.\"*\n\nPilih tempat dan waktu **tanpa gangguan** — walau sedikit. Ibu dengan anak kecil: saat anak tidur. Istri: saat suami tidak di rumah atau sedang tidur. Setiap orang cari waktu yang cocok untuk dirinya.",
+        },
+        {
+          tag: "Metode Menghafal",
+          title: "C. Cara Menghafal Bertahap",
+          content:
+            "**Jangan pindah ke ayat berikutnya sebelum ayat sebelumnya benar-benar kuat di hati.**\n\nContoh Al-Fatihah:\n1. Ulang *Alhamdulillahi rabbil 'alamin* berkali-kali hingga lancar dari hati.\n2. Ulang *Ar-Rahmanir-Rahim* hingga lancar.\n3. Gabungkan ayat 1 dan 2 hingga lancar.\n4. Baru pindah ke ayat 3 — dan seterusnya.\n\nJangan loncat ke ayat 5 sebelum ayat 1–4 semua jelas. Ini cara yang diikuti para qari, imam, dan huffaz.",
+        },
+        {
+          tag: "Metode Menghafal",
+          title: "D. Wird & Definisi Istiqamah",
+          content:
+            "Pastikan ada **wird** (rutinitas) — seperti Nabi ﷺ, sahabat, ulama, dan orang-orang shaleh.\n\nOrang yang ingin ilmu agama tapi tidak punya rutinitas hanyalah **bermimpi** — mimpi yang berlanjut sampai mati.\n\n**Definisi istiqamah secara praktis:**\n*\"Istiqamah adalah rutinitas dalam kebairan (fi'lil khair) sampai bertemu Allah Ta'ala.\"*\n\nIni hasil pengalaman para ahli Qur'an yang menghafal kitabullah dan sunnah.",
         },
         {
           tag: "Tanya Jawab",
           title: "Q: Menghafal vs Kesibukan?",
           content:
-            "**Syaikh Abul-Athoo':** Anggaplah (jadwalkan) rutinitas hafalan seperti kewajiban shalat fardhu yang punya rentang waktu panjang. Jika tidak sempat di pagi hari, geser ke siang, atau ke malam.\n\nBahkan Nabi ﷺ pernah menjamak shalat karena sibuk di Perang Khandaq.\n\nJangan pernah memutus rutinitas! Jika hari itu terlewat, niatkan **qadha** (menggantinya) di hari berikutnya. Jaga rutinitas ini terus menerus.",
+            "**Ukhti Putri Aisyah:** Bagaimana jika sudah berniat hafal tapi sering terhalang kesibukan?\n\n**Syaikh Abul-Athoo':** Jadwalkan rutinitas hafalan seperti shalat fardhu — punya rentang waktu luas. Shalat Zuhur, Asr, Maghrib masing-masing 2–3 jam. Bisa shalat di awal, tengah, atau akhir waktu — rahmat dari Allah.\n\nNabi ﷺ pernah terlambat shalat Asr di Perang Khandaq sampai masuk waktu Maghrib, lalu shalat Asr dan Maghrib berurutan.\n\nHafalan penting, tapi **kurang penting** dari shalat fardu. Jangan potong rutinitas — kecuali darurat, lalu **qadha**. Jaga rutinitas terus-menerus.",
+        },
+        {
+          tag: "Penutup",
+          title: "Lanjutan Daurah",
+          content:
+            "Insyaallah pekan depan daurah dilanjutkan. Setelah muqaddimah selesai, materi akan berpindah ke **ilmu qiraah dan tajwid** — satu persatu sesuai kemampuan waktu.\n\nKepada seluruh thalibah: jangan lupa mengisi absensi setelah daurah selesai.",
         },
       ],
     },
