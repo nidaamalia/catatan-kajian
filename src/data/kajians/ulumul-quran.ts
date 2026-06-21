@@ -183,9 +183,9 @@ export const ulumulQuran: Kajian = {
         },
         {
           tag: "Murajaah",
-          title: "Ringkasan Materi Pekan Lalu (Ukhti Ifda)",
+          title: "Ringkasan Materi Pekan Lalu",
           content:
-            "Sebelum Syekh hadir, peserta diminta membacakan ringkasan pekan lalu.\n\n**Dua macam Ulumul Qur'an:**\n1. **Al-Ulumul Awaliyah** — ilmu yang membantu memahami Al-Qur'an (tafsir, tajwid).\n2. **Ulumun Natijah** — ilmu yang lahir dari Al-Qur'an (ahkam, fiqh, sejarah, kisah nabi).\n\n**Poin penting:** Al-Qur'an mukjizat agung yang dijaga sampai kiamat; turun lewat Jibril karena beratnya kalamullah; Nabi ﷺ mengajarkan dengan metode **talaqqi** seperti belajar dari Jibril; 4 sahabat muqri': Abdullah bin Mas'ud, Ubay bin Ka'ab, Salim Maula Abi Hudzaifah, Mu'adz bin Jabal.",
+            "**Dua macam Ulumul Qur'an:**\n1. **Al-Ulumul Awaliyah** — ilmu yang membantu memahami Al-Qur'an (tafsir, tajwid).\n2. **Ulumun Natijah** — ilmu yang lahir dari Al-Qur'an (ahkam, fiqh, sejarah, kisah nabi).\n\n**Poin penting:** Al-Qur'an mukjizat agung yang dijaga sampai kiamat; turun lewat Jibril karena beratnya kalamullah; Nabi ﷺ mengajarkan dengan metode **talaqqi** seperti belajar dari Jibril; 4 sahabat muqri': Abdullah bin Mas'ud, Ubay bin Ka'ab, Salim Maula Abi Hudzaifah, Mu'adz bin Jabal.",
         },
         {
           tag: "Murajaah",
