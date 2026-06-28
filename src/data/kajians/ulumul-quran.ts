@@ -392,12 +392,6 @@ export const ulumulQuran: Kajian = {
           content:
             "**Pertanyaan:** Mengapa banyak orang belajar agama, tapi **tidak mendapat banyak manfaat**?\n\n**Jawaban:** Karena **salah dalam tahapan ilmu** — cara belajar yang salah menjadi penyebab **kegagalan** menuntut ilmu.\n\nContoh: belajar di universitas 4–6 tahun, dapat ijazah — tapi **kosong**, tidak bermanfaat untuk ummat. Penyebabnya: Al-Qur'an dianggap tidak penting, langsung ke mazhab/fiqh/akidah tanpa pondasi.\n\n*\"Menuntut ilmu ada satu jalan — dimulai dari Al-Qur'an.\"*",
         },
-        {
-          tag: "Penutup",
-          title: "Penutup & Lanjutan",
-          content:
-            "Syaikh menutup materi dengan doa. Tidak ada pertanyaan dari peserta — materi dianggap sudah cukup jelas.\n\n**Pesan:** tulis, hafal, pahami, dan tanamkan di hati. Jadikan setiap bacaan sebagai **ibadah** kepada Allah.\n\n**Pekan depan:** pertemuan terakhir marhalah pertama. **Kuis pekan 3:** Senin–Rabu. Jangan lupa **absensi** dan **catatan**.",
-        },
       ],
     },
   ],
