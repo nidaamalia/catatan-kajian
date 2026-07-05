@@ -394,5 +394,114 @@ export const ulumulQuran: Kajian = {
         },
       ],
     },
+    {
+      id: 4,
+      title: "Landasan Ilmiah Kitab-kitab Tajwid Al-Qur'an",
+      date: "2026-07-02",
+      slides: [
+        {
+          tag: "Muqaddimah",
+          title: "المبادئ — Kitab Tajwid",
+          content:
+            "**Landasan ilmiah kitab-kitab tajwid Al-Qur'an** — pertemuan keempat (penutupan daurah Mabadi Ulumul Qur'an), 2 Juli 2026.\n\nMateri pekan ini: **murajaah keutamaan Ahlul Qur'an**, **niat belajar tajwid**, **sejarah buku-buku tajwid**, dan **rekomendasi kitab** untuk lanjutan daurah.",
+        },
+        {
+          tag: "Murajaah",
+          title: "Ringkasan Pekan Lalu (Ukhti Mutiara)",
+          content:
+            "**QS. An-Naml: 91–92** — dakwah Nabi ﷺ dimulai dengan **qiraatil Qur'an**.\n\n**Keutamaan tilawah:** kokoh di agama, husnul khatimah, keberkahan rumah tangga, ibadah setara puasa & haji.\n\n**Hukum tajwid:** wajib sesuai kemampuan — *haqqa tilawatihi* (QS. Al-Baqarah: 121) dan *warattilil qur'ana tartila* (QS. Al-Muzzammil: 4).\n\n**Tahapan:** *Iqra'* (makhraj & sifat huruf) dulu, baru *tartil* (perbaiki suara). Jangan kebalik.",
+        },
+        {
+          tag: "Murajaah",
+          title: "Nabi ﷺ Menghargai Ahlul Qur'an",
+          content:
+            "**Ukhti Yuni (Medan):** Perang Uhud — saat jenazah dimakamkan bersama dalam satu liang, Nabi ﷺ memerintahkan yang **paling banyak hafalannya** dimasukkan lebih dahulu.\n\n**Kisah Ibnu Mas'ud** رضي الله عنه — kaki kurus saat memanjat pohon, Nabi ﷺ membela: *\"Kaki Ibnu Mas'ud lebih berat dari Gunung Uhud di timbangan hari Kiamat.\"*",
+        },
+        {
+          tag: "Murajaah",
+          title: "Allah Menghargai Ahlul Qur'an",
+          content:
+            "**Hadits:** *\"Inna lillahi ahlun... Ahlul Qur'an ahlullah.\"* — Ahlul Qur'an adalah **keluarga Allah**.\n\n**Keistimewaan di akhirat:**\n• Tahap khusus di yaumul qiyamah\n• **Ahlus syafa'ah** — syafaat khusus\n• Allah **menjaga** di kubur (hayatul barzakh)\n\n**Ubay bin Ka'ab** رضي الله عنه — Umar bin Khattab berkata: *\"Separuh ilmu agama kita ada di hati Ubay.\"* Saat Ubay wafat, Umar menangis. Umar juga memilih Ubay sebagai **imam tarawih**.",
+        },
+        {
+          tag: "Prinsip",
+          title: "Wajib Menghargai Ahlul Qur'an",
+          content:
+            "Allah dan Nabi ﷺ menghargai Ahlul Qur'an → **wajib** atas setiap muslim menghargai Al-Qur'an dan penghafalnya.\n\n**Praktik salaf:** Umar bin Khattab رضي الله عنه — imam muslimin di salat berjemaah **pasti Ahlul Qur'an**.\n\n*\"Menghargai Ahlul Qur'an wajib dalam iktikad Ahlus Sunnah.\"*",
+        },
+        {
+          tag: "Niat",
+          title: "Tujuan Belajar Tajwid",
+          content:
+            "**Tujuan syar'i belajar tajwid:** memperbaiki **ibadah bacaan** di hadapan Allah — agar tilawah diterima.\n\n**BUKAN tujuan syar'i:**\n• Menjadi imam, ustazah, atau qariah\n• Ikut kompetisi untuk harta\n• Mencari sertifikat & kualifikasi\n\n*\"Kalau Allah beri rezeki jadi pengajar, alhamdulillah. Tapi jangan cari, jangan jadikan itu tujuan.\"*",
+        },
+        {
+          tag: "Peringatan",
+          title: "Niat Salah dalam Belajar Qur'an",
+          content:
+            "**Hadits shahih (Muslim):** Orang yang **pertama masuk neraka** dari ummat ini adalah **qari** — belajar Al-Qur'an dengan tujuan duniawi, bukan untuk ibadah.\n\n**Prinsip Umar** رضي الله عنه: *\"Kalau rezeki datang, ambil. Tapi jangan cari dunia dengan amal akhirah.\"*\n\nCari dunia dengan cara dunia (bisnis, kerja). **Jangan** cari dunia lewat amal ibadah.",
+        },
+        {
+          tag: "Materi Utama",
+          title: "Sejarah Ilmu Tajwid — Tahap Awal",
+          content:
+            "**Abad ke-1–2 H:** Ilmu tajwid **belum terpisah** — bagian dari **ilmu lughah** (nahwu, sarf, balaghah).\n\n**Contoh buku awal (bukan buku tajwid khusus):**\n• **As-Sibaway** — *Al-Kitab* (kitab nahwu, berisi ahkam sakinah, idgham, iqlab, dll.)\n• **Al-Khalil bin Ahmad** — *Al-Kitab* (makhraj & ahkam huruf)\n\nUlama lughah salaf sekaligus **qari**: Amr bin Utsman Al-Basri, Al-Asma'i, Abdullik ibn Abi Ishaq.",
+        },
+        {
+          tag: "Materi Utama",
+          title: "Pemisahan Ilmu Tajwid",
+          content:
+            "Seiring bacaan umat semakin rusak, ulama **memisahkan** ilmu tajwid dari lughah.\n\n**Pemisah pertama:** **Abu Muslim Al-Khaqani** رحمه الله (abad ke-2 H).\n\nBersamaan, ulama juga memisahkan: ilmu nahwu, sarf, tafsir, tauhid, dan **qira'at** — masing-masing jadi ilmu tersendiri.\n\n**Kaidah:** Buku tajwid asli yang paling awal = buku lughah yang berisi faedah tajwid.",
+        },
+        {
+          tag: "Materi Utama",
+          title: "Abu 'Amr Ad-Dani — Tokoh Utama",
+          content:
+            "**Abu 'Amr Ad-Dani 'Utsman ibn Sa'id** رحمه الله — alim abad ke-3 (meninggal akhir abad ke-3, masuk abad ke-4).\n\nAlim dalam: bahasa, fiqh, hadis, dan **qira'at**.\n\n**Pertama** menulis buku tajwid yang **lengkap & komprehensif** — makhraj, sifat huruf, sanad qira'ah, cara mengajar.\n\nBuku-bukunya jadi **sumber utama** ulama tajwid hingga hari ini. **Hafalkan namanya.**",
+        },
+        {
+          tag: "Materi Utama",
+          title: "Asy-Syatibi & An-Nazm",
+          content:
+            "**Al-Imam Asy-Syatibi** (Abul Qasim ibn Firri Al-Andalusi) رحمه الله — penulis *Al-Hirz Al-Matini* (qira'at) dan buku tajwid.\n\nBelajar & hafal buku-buku **Abu 'Amr Ad-Dani**, lalu **membuat nazm (syair)** agar mudah dihafal thullab.\n\n*At-Tatimmat* bukan investasi Syatibi — hasil nazm dari buku Abu 'Amr.\n\nSampai hari ini, siapa belajar tajwid dengan benar **wajib hafal At-Tatimmat**.",
+        },
+        {
+          tag: "Materi Utama",
+          title: "Al-Imam Ibnul Jazari",
+          content:
+            "**Al-Imam Ibnul Jazari** (Muhammad ibn Muhammad Al-Jazari) رحمه الله — karamah untuk umat.\n\nPerjalanan ke seluruh tanah Islam (Makkah, Madinah, Mesir, Syam, Iraq, Yaman, Afrika, Eropa) — mengumpulkan qira'at ber sanad sahih.\n\nHafal **Musnad Imam Ahmad** (>50.000 hadis) + buku-buku Abu 'Amr.\n\nMenulis **Al-Jazariyyah** — buku tajwid **paling utama**. Juga *An-Nashr* (qira'at) dan *Al-Muqaddimah*.\n\nSiapa hafal & pahami Al-Jazariyyah dengan benar → **cukup** insyaallah.",
+        },
+        {
+          tag: "Materi Utama",
+          title: "Hidayatul Qari — Kitab Zaman Ini",
+          content:
+            "**Hidayatul Qari** — As-Sayyid Alam Al-Marshi رحمه الله (2 jilid).\n\nKitab utama ilmu tajwid **abad ini** — sumbernya dari **Ibnul Jazari** dan **Abu 'Amr Ad-Dani**.\n\n**Prinsip:** Setiap buku tajwid yang benar **pasti** mengambil dari ulama salaf yang disebut di atas.",
+        },
+        {
+          tag: "Materi Utama",
+          title: "Siapa Alimul Qira'ah?",
+          content:
+            "**Alimul qira'ah** = orang yang **tahu cara membaca** Al-Qur'an dengan benar — bukan sekadar informasi teori.\n\n**Mustahil** alim fiqh tapi tidak praktik. Demikian alim qira'ah — **wajib** bisa baca dengan benar.\n\n**Dua macam ulama tajwid:**\n1. Kuat praktik, teori kurang (contoh: Minyawi, Syekh Abdul Basit)\n2. Kuat **praktik & teori** (imam sejati)\n\n**At-talaqqi** (musyafahah) **lebih penting** dari nazar (teori) — walau keduanya penting.",
+        },
+        {
+          tag: "Materi Utama",
+          title: "Syarat Qira'ah yang Benar",
+          content:
+            "**Dua syarat qira'ah yang benar:**\n\n1. Ikut **sifat qira'ah** dalam buku-buku ulama qira'at & tajwid.\n2. Qira'ahmu ikut cara **qari** yang kita kenal & dengar di zaman kita.\n\n**Contoh qari salaf:** Ubay bin Ka'ab, Ibnu Abbas, Anas bin Malik, Hamzah, Asy-Syba'i, Imam Malik, Nafi', dll.\n\n**Contoh qari khalaf (meninggal):** Muhammad Rifat, Mahmud Khalil Al-Hushari, Ali Al-Hudhaifi, Nuh Ha Mim Keller, Syekh Ali Jaber, Syekh Abdul Fattah Al-Qadhi.\n\n**Jangan** ambil contoh dari orang yang masih hidup.",
+        },
+        {
+          tag: "Tanya Jawab",
+          title: "Q: Kitab Apa untuk Mulai?",
+          content:
+            "**Ukhti Mutiara (Gorontalo):** Rekomendasi kitab untuk memulai?\n\n**Syaikh Abul-Athoo':** Mulai dengan **Taisir Ilmu Tajwid** — Dr. Yahya Abdul Razzaq Al-Ghautani.\n\n3 mustawa (awal, tsani, tsalits) — ambil **mustawa awal** saja dulu.\n\nSetelah selesai & lulus ujian → lanjut ke **Al-Jazariyyah**.\n\nBuku ini bagus untuk **mubtadi'** (pemula).",
+        },
+        {
+          tag: "Tanya Jawab",
+          title: "Q: Wukuf menurut Ali bin Abi Thalib?",
+          content:
+            "**Ukhti Mutiara:** Ali رضي الله عنه mengatakan wukuf = sifatul wukuf?\n\n**Syaikh Abul-Athoo':** Benar menurut **zaman sahabat** — abad ke-1 hingga separuh abad ke-2.\n\nZaman Nabi ﷺ & sahabat: orang Arab **tidak perlu** belajar huruf & makhraj — bahasa dari fitrah, 100% benar. Langsung belajar **perbaiki suara, wukuf, ibtida**.\n\nSetelah huruf Arab rusak → perlu perbaiki **huruf dulu**, baru suara.\n\n**Al-wukuf wal ibtida** penting, tapi **bukan untuk pemula** — belum bisa baca huruf dengan benar, bagaimana belajar wukuf?",
+        },
+      ],
+    },
   ],
 };
